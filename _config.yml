@@ -27,6 +27,8 @@ url: "https://ping-ee.github.io" # the base hostname & protocol for your site, e
 # twitter_username: jekyllrb
 github_username:  ping-ee
 
+google_analytics: G-YDQP3Z9VCD
+  
 # Build settings
 theme: minima
 plugins:
