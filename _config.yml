@@ -29,6 +29,8 @@ github_username:  ping-ee
 
 google_analytics: G-YDQP3Z9VCD
 
+permalink: /blog/:title:output_ext
+
 # Build settings
 theme: minima
 plugins:
